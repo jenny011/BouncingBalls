@@ -36,7 +36,7 @@ class Particle{
     rotate(radians(frameCount*2));
     noStroke();
     fill(color(this.r,this.g,this.b,this.t1));
-    ellipse(0,0,this.size*1.1,this.size);
+    ellipse(0,0,this.size*1.05,this.size);
     fill(color(this.r,this.g,this.b,this.t2));
     ellipse(0,0,this.size2,this.size2);
     pop();
