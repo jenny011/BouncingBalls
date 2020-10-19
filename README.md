@@ -1,3 +1,3 @@
 # BouncingBalls
-# Nature of Code course exercise
-# Simulate forces
+## Nature of Code course exercise
+Forces simulatioin
